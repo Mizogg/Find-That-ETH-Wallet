@@ -1,7 +1,8 @@
 # Find-That-ETH-Wallet
 Random Scan for ETH Addresses and Transactions
 
-#ethapi.py
+### ethapi.py
+
 1. Number of CPU for multi proccessing
 2. Insert API Key you can create 2 per account. Multi Accounts= Multiple API keys.
 Remove # to make lines work insert your API key
@@ -11,7 +12,8 @@ I think best 1 api = 1 cpu for my laptop I have 6 API's and run 6CPU
 ![image](https://user-images.githubusercontent.com/88630056/128767412-710c3f89-ca99-4488-b0a9-d735c0846763.png)
 
 
-#ethweb3bal.py
+### ethweb3bal.py
+
 ![image](https://user-images.githubusercontent.com/88630056/128767587-0c1dbd88-a700-462e-8c45-c9eb9a2cb165.png)
 
 pip3 install colorama
@@ -21,7 +23,8 @@ pip3 install requests
 online Scan looks for ETH
 Need to PUT API KEY INTO LINE 17 Replace freekey
 
-#ethweb3.py
+### ethweb3.py
+
 ![image](https://user-images.githubusercontent.com/88630056/128767691-a58d845a-f5fe-4e3a-9512-9ee570ddf019.png)
 
 pip3 install colorama
