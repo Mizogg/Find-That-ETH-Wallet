@@ -38,3 +38,8 @@ pip3 install web3
 
 Offline Scan looks for ETH need to make a ethlist.txt database.
 
+### ethtxchecker.py
+
+If you have a Database of ETH Addresses and need to check for transactions.
+
+![image](https://user-images.githubusercontent.com/88630056/128769626-f837e837-d4a4-4408-a1c3-f593b66089e1.png)
