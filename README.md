@@ -1,6 +1,12 @@
 # Find-That-ETH-Wallet
 Random Scan for ETH Addresses and Transactions
 
+get a free key or 2 from https://ethplorer.io/ , After creating key you have to wait 10mins till active. Upto 2 API keys per account.
+35,000 Request Hourly(Per API KEY)
+756,000 Request Daily(Per API KEY)
+![image](https://user-images.githubusercontent.com/88630056/128769247-14e9ba19-ed36-4a74-b3a1-129c858fbe70.png)
+
+
 ### ethapi.py
 
 1. Number of CPU for multi proccessing
